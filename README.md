@@ -1,2 +1,2 @@
 # python-learning
-With this repository I just started learning Python.
+I'm starting my Python journey with this repository
