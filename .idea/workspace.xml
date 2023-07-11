@@ -91,7 +91,7 @@
     &quot;last_opened_file_path&quot;: &quot;C:/Users/Gowtham/PycharmProjects/python-learning-from-git&quot;
   }
 }</component>
-  <component name="RunManager" selected="Python.Emoji_Converter">
+  <component name="RunManager" selected="Python.TryExcept">
     <configuration name="Dictionaries" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python-learning-from-git" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -134,27 +134,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ListMethods" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="python-learning-from-git" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ListMethods.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="RemoveDuplicates" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python-learning-from-git" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -168,6 +147,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/RemoveDuplicates.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TryExcept" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python-learning-from-git" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/TryExcept.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -199,18 +199,18 @@
     </configuration>
     <list>
       <item itemvalue="Python.Emoji_Converter" />
+      <item itemvalue="Python.TryExcept" />
       <item itemvalue="Python.Dictionaries" />
-      <item itemvalue="Python.ListMethods" />
       <item itemvalue="Python.RemoveDuplicates" />
       <item itemvalue="Python.Tuples" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.TryExcept" />
         <item itemvalue="Python.Emoji_Converter" />
         <item itemvalue="Python.Dictionaries" />
         <item itemvalue="Python.Tuples" />
         <item itemvalue="Python.RemoveDuplicates" />
-        <item itemvalue="Python.ListMethods" />
       </list>
     </recent_temporary>
   </component>
