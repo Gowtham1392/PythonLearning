@@ -1,30 +1,18 @@
 class Account:
-    def __init__(self, accno, name):
-        self.accno = accno
-        self.type = name
-
-    def print_accdetails(self):
-        pprint(f"Account No: {self.accno} and Type: {self.name}")
+    def __init__(self, acno, type):
+        self.acno = acno
+        self.type = type
 
 
-class Standard:
-    def __init__(self, balance, limit):
-        self.balance = balance
-        self.limit = limit
-        
+
+class Crypto(Account):
+    def print(self):
+        print(f"Type is {self.type} Account")
+
+class Normal(Account):
+    def print(self):
+        print(f"Type is {self.type} Account")
 
 
-    def show_details(self):
-        print(f"Account balance is {self.balance} and limit is {self.limit}")
-
-class Crypto:
-    def __init__(self, balance, limit):
-        self.balance = balance
-        self.limit = limit
-
-
-    def show_details(self):
-        print(f"Account balance is {self.balance} and limit is {self.limit}")
-
-class Validate:
-    def validate_limit(self):
+cr = Normal(1234, "Normal")
+cr.print()
